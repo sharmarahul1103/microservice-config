@@ -1,7 +1,3 @@
-spring:
-   application:
-      name: Config-dev
-
 eureka:
   client:
     fetch-registry: true
